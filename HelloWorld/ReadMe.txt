@@ -40,13 +40,8 @@ git add --all
 
 git commit -m "注释"
 
+git remote add origin git@github.com:workalone/HelloWorld.git
+
 git push origin master
-
-
-
-
-============================================================================================
-git 恢复commit
-	git reset --hard <commit_id>
 
 
