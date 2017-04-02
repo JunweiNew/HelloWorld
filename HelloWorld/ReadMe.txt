@@ -43,3 +43,10 @@ git commit -m "注释"
 git push origin master
 
 
+
+
+============================================================================================
+git 恢复commit
+	git reset --hard <commit_id>
+
+
