@@ -1,0 +1,32 @@
+创建分支
+	git branch xxx
+
+切换分支
+	git checkout xxx 
+
+创建并切换分支
+	git checkout -b xxx    //-b表示创建并切换
+
+用git branch 查看当前分支
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
