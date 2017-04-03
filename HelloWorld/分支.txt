@@ -52,7 +52,9 @@ Fast-forward
 
 
 
-
+----------------------------------------------------------------
+准备合并xxx分支，请注意--no-ff参数，表示禁用Fast forward：
+git merge --no-ff -m "merge with no-ff" xxx
 
 
 
