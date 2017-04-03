@@ -10,6 +10,10 @@
 用git branch 查看当前分支
 
 
+合并分支 git merge xxx 
+
+删除分支
+	git branch -d xxx 
 
 
 
