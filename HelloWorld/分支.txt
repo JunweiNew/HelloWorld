@@ -30,12 +30,25 @@ Git鼓励大量使用分支：
 
 删除分支：git branch -d <name>
 
+========================================================
+在分支xxx下编程，然后git add ， git commit 
+然后切换到master分支，然后git merge xxx
 
+linux@ubuntu:~/HardDisk/2_build_disk/gitwork$ git checkout master 
+切换到分支 'master'
+您的分支领先 'origin/master' 共 2 个提交。
+（使用 "git push" 来发布您的本地提交）
+linux@ubuntu:~/HardDisk/2_build_disk/gitwork$ git merge second 
+更新 ae84f5d..7f3b9ec
+Fast-forward
+...\275\277\347\224\250\350\257\264\346\230\216.txt" | 31 +++++++++++++-
+"HelloWorld/\345\210\206\346\224\257.txt"            | 49
+	+++++++++++++++++++++++
+	 2 files changed, 79 insertions(+), 1 deletion(-)
+	 create mode 100644 "HelloWorld/\345\210\206\346\224\257.txt"
+---------------------------------------
 
-
-
-
-
+讲其它分支合并到master分支后，删除其它分支git branch -d <name>
 
 
 
