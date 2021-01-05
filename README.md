@@ -31,7 +31,7 @@
 
 ### 链接  
   [点击这里你可以链接到www.google.com](http://www.google.com)<br />  
-  [点击这里我你可以链接到我的博客](http://www.dushibaiyu.com)<br />  
+ 
   
 ### 自动链接
 只需要把网址或电子邮件用< >包含起来就行，例如: <br />
