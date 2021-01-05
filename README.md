@@ -21,3 +21,12 @@ https://github.com/JunweiNew/HelloWorld/edit/master/README.md
 这是一段普通的文本，
 直接回车不能换行，<br>  
 要使用\<br>  
+注意第三行的<br>前加了反斜杠 \ 。目的就是像其他语言那样实现转义，也就是 <  的转义。
+
+* 编程语言  
+    * 脚本语言  
+        * Python  
+
+
+
+
